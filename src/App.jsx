@@ -31,7 +31,7 @@ const App = () => {
       <p>I am a B.Tech CSE (Data Science) student passionate about
       Cloud Computing, DevOps, Java Backend Development,MERN Full-stack Developer
       and scalable web applications.
-      I enjoy solving DSA problems and building real-world projects.</p>
+      I enjoy solving DSA problems and  building real-world projects.</p>
     </section>
 
     <section id='projects' className='projects'>
