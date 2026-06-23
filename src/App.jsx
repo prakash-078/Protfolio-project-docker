@@ -5,7 +5,7 @@ const App = () => {
   return (
     <>
     <header className='navbar'>
-      <h2>Prakash Kumar Mallik Student Gandhi </h2>
+      <h2>Prakash Kumar Mallik Student Gandhi Engineering College </h2>
       <nav>
         <a href="#about">About</a>
         <a href="#projects">Projects</a>
